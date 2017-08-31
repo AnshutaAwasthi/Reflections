@@ -4,3 +4,5 @@ Git init --creates a .git file, which contains a metadata
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 it allows us to commit only portions we want to commit , not all files
+
+there is some more
